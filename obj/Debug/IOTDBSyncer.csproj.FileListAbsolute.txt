@@ -1,0 +1,8 @@
+c:\users\carlos\documents\visual studio 2017\Projects\IOTDBSyncer\IOTDBSyncer\bin\Debug\IOTDBSyncer.exe.config
+c:\users\carlos\documents\visual studio 2017\Projects\IOTDBSyncer\IOTDBSyncer\bin\Debug\IOTDBSyncer.exe
+c:\users\carlos\documents\visual studio 2017\Projects\IOTDBSyncer\IOTDBSyncer\bin\Debug\IOTDBSyncer.pdb
+c:\users\carlos\documents\visual studio 2017\Projects\IOTDBSyncer\IOTDBSyncer\bin\Debug\Newtonsoft.Json.dll
+c:\users\carlos\documents\visual studio 2017\Projects\IOTDBSyncer\IOTDBSyncer\bin\Debug\Newtonsoft.Json.xml
+c:\users\carlos\documents\visual studio 2017\Projects\IOTDBSyncer\IOTDBSyncer\obj\Debug\IOTDBSyncer.exe
+c:\users\carlos\documents\visual studio 2017\Projects\IOTDBSyncer\IOTDBSyncer\obj\Debug\IOTDBSyncer.pdb
+c:\users\carlos\documents\visual studio 2017\Projects\IOTDBSyncer\IOTDBSyncer\obj\Debug\IOTDBSyncer.csprojResolveAssemblyReference.cache
