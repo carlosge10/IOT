@@ -14,6 +14,7 @@ namespace IOTDBSyncer
         public string latitude { get; set; }
         public string longitude { get; set; }
         public string field1 { get; set; }
+        public string field2 { get; set; }
         public string created_at { get; set; }
         public string updated_at { get; set; }
         public string last_entry_id { get; set; }
