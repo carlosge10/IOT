@@ -178,6 +178,7 @@ namespace IOTDBSyncer
                     }
                 }
             }
+            Console.WriteLine("Cube synced with TS succesfully...");
         }
         static void Main(string[] args)
         {
